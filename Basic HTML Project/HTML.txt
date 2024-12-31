@@ -1,0 +1,13 @@
+<HTML>
+<HEAD>
+<TITLE>  SK </TITLE>
+</HEAD>
+<BODY BG COLOR="Orange">
+<B> <FONT FACE ="ROMAN" SIZE="8" COLOR="BLACK"> </B>
+ALWAYS BEST <br>
+</FONT>
+<BR><BR>
+<IMG SRC="Computer.Jpg" ALT="Black" WIDTH="100" HEIGHT="150"
+HSpace="30" V Space="20"
+</BODY>
+</HTML>
